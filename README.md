@@ -4,7 +4,36 @@
 
 
 # 💫 About Me:
-🛰 I’m currently working on:<br>A data science project predicting blood donation behavior using Python, Pandas, and machine learning.<br><br>🤝 I’m looking to collaborate on:<br>Open-source data science projects, especially in healthcare, the environment, or social good.<br><br>🙋‍♀️ I’m looking for help with:<br>Improving model performance and writing clean, production-ready notebooks for GitHub.<br><br>🌱 I’m currently learning:<br>Advanced machine learning, GitHub best practices, and deploying ML models using Streamlit.<br><br>💬 Ask me about:<br>Breaking into data science from a non-traditional background, project ideas for scholarships, and Kaggle competitions for beginners.<br><br>⚡ Fun fact:<br>I turned my curiosity about global issues into projects, including analyzing the impact of war on stock market volatility.<br><br>
+
+🛰 I’m currently working on:
+- A data science project predicting blood donation behavior using Python, Pandas, and machine learning.
+
+🤝 I’m looking to collaborate on:
+- Open-source data science projects, especially in healthcare, the environment, or social good.
+
+🙋‍♀️ I’m looking for help with:
+- Improving model performance.
+- Writing clean, production-ready notebooks for GitHub.
+
+🌱 I’m currently learning:
+- Advanced machine learning.
+- GitHub best practices.
+- Deploying ML models using Streamlit.
+
+💬 Ask me about:
+- Breaking into data science from a non-traditional background.
+- Project ideas for scholarships.
+- Kaggle competitions for beginners.
+
+⚡ Fun fact:
+- I turned my curiosity about global issues into projects, including analyzing the impact of war on stock market volatility. 
+
+## 📂 Projects I'm Proud Of
+- 🌍 **Earthquake Prediction Model** – Final Year Project using machine learning to predict natural disasters based on seismic data. Focused on earthquake forecasting to support early warning systems.
+- 🔬 **Blood Donation Predictor** – Machine Learning project predicting donor likelihood using classification models.
+- 📊 **War Impact on Stocks** – Visualized geopolitical effects on market trends using real-world data.
+- 🧠 **Productivity Tracker** – AI-powered app that monitors and scores digital work habits.
+
 
 
 ## 🌐 Socials:
